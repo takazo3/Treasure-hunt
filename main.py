@@ -35,11 +35,11 @@ if first == "left":
     if final == "yellow":
       print("Congrats! You\'ve found the tresure! You win!!!!")
     else:
-      print("OMG! You\'ve eaten a Shark! Game over!")
+      print("So close! Game over.")
       
         
   else:
-    print("So close. You mada a big  mistake. Game over")
+    print("OMG! You\'ve eaten a Shark! Game over!")
     
 else:
   print("Oops, it\'s a wrong way to go. Game over")
